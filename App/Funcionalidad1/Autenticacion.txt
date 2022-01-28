@@ -3,3 +3,5 @@ Desarrollo de aplicacion de autenticacion
 Interfaz grafica implementada
 
 Funcionalidad ok QA
+
+Se implementa la verificacion de correos internos
