@@ -5,3 +5,5 @@ Conexion establecida
 Replicabilidad de la base
 
 Cache de la base implementada
+
+Funcionalidad OK
