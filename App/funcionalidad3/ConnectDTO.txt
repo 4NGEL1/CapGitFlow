@@ -3,3 +3,5 @@ Creacion de Data base
 Conexion establecida
 
 Replicabilidad de la base
+
+Cache de la base implementada
