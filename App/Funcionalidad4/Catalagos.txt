@@ -1,0 +1,7 @@
+Implementacion de interfaz de catalagos
+
+Verificacion de catalagos
+
+Funcionalidad completa
+
+Funcionalidad OK
