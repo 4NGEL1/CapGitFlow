@@ -1,0 +1,9 @@
+Implementacion de Home
+
+Descripcion de home
+
+Integracion con Login
+
+funcionalidad completada
+
+Funcionalidad ok QA
